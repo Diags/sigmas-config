@@ -1,0 +1,19 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "1.0"
+
+citoyens-service:
+  message: "Welcome to Sigmas Actes related qa APIs"
+  contactDetails:
+    name: "SYLLA Diaguily - Product Owner"
+    email: "diaguilybouna@gmail.com"
+  onCallSupport:
+    - (+336) 123-4829
+    - (+336) 203-0384
+  activeBranches: 
+    - "version 1.0"
+    - "Modifyby Diaguily"
