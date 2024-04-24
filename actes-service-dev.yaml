@@ -1,6 +1,10 @@
 build:
   version: "1.0"
-
+info:
+  app:
+    name: "actes-service"
+    description: "SIGMAS Application"
+    version: "1.0.0"
 actes-service:
   message: "Welcome to Sigmas Actes related developpement APIs "
   contactDetails:
