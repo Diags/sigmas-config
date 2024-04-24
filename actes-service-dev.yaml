@@ -5,7 +5,7 @@ actes-service:
   message: "Welcome to Sigmas Actes related dev APIs "
   contactDetails:
     name: "SYLLA Diaguily - Product Owner"
-    email: "diaguilybouna@gmail.com"
+    email: {cipher}cddd8145aef5de4d5b26eb897b5aa3da38f1fffca4edb58ca931cada0d773f3b
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
