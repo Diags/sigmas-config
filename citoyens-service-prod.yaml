@@ -5,7 +5,11 @@ spring:
 
 build:
   version: "1.0"
-
+info:
+  app:
+    name: "citoyens-service"
+    description: "SIGMAS Application"
+    version: "1.0.0"
 citoyens-service:
   message: "Welcome to Sigmas Actes related prod APIs "
   contactDetails:
