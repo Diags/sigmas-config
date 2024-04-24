@@ -15,5 +15,5 @@ citoyens-service:
     - (+336) 123-4829
     - (+336) 203-0384
   activeBranches: 
-    - "version 1.0"
-    - "Modifyby Diaguily"
+    - "MASTER"
+    - "Modify by Diaguily"
