@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 actes-service:
-  message: "Welcome to Sigmas Actes related dev APIs "
+  message: "Welcome to Sigmas Actes related local APIs "
   contactDetails:
     name: "SYLLA Diaguily - Product Owner"
     email: "diaguilybouna@gmail.com"
