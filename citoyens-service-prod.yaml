@@ -6,7 +6,7 @@ info:
     description: "SIGMAS Application"
     version: "1.0.0"
 citoyens-service:
-  message: "Welcome to Sigmas Citoyens related prod webhook APIs "
+  message: "Welcome to Sigmas Citoyens related prod  APIs "
   contactDetails:
     name: "SYLLA Diaguily - Product Owner"
     email: "{cipher}e205e8b9d2993df2c5ee17812bf24a31349b4e406bd7a5273bb43e30ec5f8b7c436413cf08d0ce20ebe6391e9a4f2f75"
