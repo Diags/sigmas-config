@@ -5,7 +5,7 @@ info:
     name: "actes-service"
     description: "SIGMAS Application"
     version: "1.0.0"
-actes-service:
+citoyens-service:
   message: "Welcome to Sigmas Citoyens related prod live APIs "
   contactDetails:
     name: "SYLLA Diaguily - Product Owner"
