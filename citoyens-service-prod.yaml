@@ -1,4 +1,3 @@
-
 citoyens-service:
   build:
     version: "3.0"
