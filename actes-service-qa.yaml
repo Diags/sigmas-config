@@ -1,6 +1,5 @@
 build:
   version: "1.0"
-
 actes-service:
   message: "Welcome to Sigmas Actes related qa APIs "
   contactDetails:
