@@ -1,5 +1,4 @@
 
-actes-service:
 build:
   version: "3.0"
 info:
@@ -7,6 +6,7 @@ info:
     name: "actes-service"
     description: "SIGMAS Application"
     version: "1.0.0"
+actes-service:
   message: "Welcome to Sigmas Actes related prod webhook APIs "
   contactDetails:
     name: "SYLLA Diaguily - Product Owner"
