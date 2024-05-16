@@ -1,11 +1,11 @@
-citoyens-service:
-  build:
+build:
     version: "3.0"
   info:
     app:
       name: "actes-service"
       description: "SIGMAS Application"
       version: "1.0.0"
+citoyens-service:
   message: "Welcome to Sigmas Citoyens related Sylla  APIs "
   contactDetails:
     name: "SYLLA Diaguily - Product Owner"
