@@ -1,8 +1,8 @@
 build:
-    version: "3.0"
-  info:
-    app:
-      name: "actes-service"
+  version: "3.0"
+info:
+  app:
+    name: "actes-service"
       description: "SIGMAS Application"
       version: "1.0.0"
 citoyens-service:
